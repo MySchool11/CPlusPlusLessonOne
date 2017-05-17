@@ -1,4 +1,4 @@
-#include <iostream>                             // Import the basic input/output stream library  // Import conio, a c header file (Google it!)
+#include <iostream>                             // Import the basic input/output stream library
                                                 // Whitespace is ignore by the compiler, so use it to structure your code in a readable manner
 using namespace std;                            // Tells the compiler we are using the namespace std, see line 8
 
